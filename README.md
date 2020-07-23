@@ -2,6 +2,8 @@
 
 A dark blue Chrome theme
 
+![Youtube with chrome dark blue theme](https://i.ibb.co/cF44GKd/Screenshot-6.png "Youtube with chrome dark blue theme")
+
 ## Installation
 
 **Step 1:**
