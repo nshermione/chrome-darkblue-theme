@@ -14,11 +14,6 @@ npm i
 node index.js
 ```
 
-**Step: 2:**
-```bash
-node index.js
-```
-
 **Step: 3:**
 * Open Chrome extension manager: [chrome://extensions/](chrome://extensions/)
 
